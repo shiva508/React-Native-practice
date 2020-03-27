@@ -1,5 +1,5 @@
 import React from 'react';
-import { StyleSheet, Text, View } from 'react-native';
+import { StyleSheet, Text, View,Button } from 'react-native';
 import { Checkbox } from 'react-native-paper';
 import EmojiDict from './EmojiDict'
 export default function App() {
@@ -9,6 +9,7 @@ export default function App() {
       <Text>H! app</Text>
       <Checkbox></Checkbox>
       <EmojiDict></EmojiDict>
+      <Button title="sfghd"></Button>
     </View>
   );
 }
