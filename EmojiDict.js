@@ -4,7 +4,7 @@ class EmojiDict extends Component{
     state = {
 		'😃': '😃 Smiley',
 		'🚀': '🚀 Rocket',
-		'⚛️': '⚛️ Atom Symbol'
+		'⚛️': '⚛️ Atom SymbolaS'
     };
     render() {
 		return (
